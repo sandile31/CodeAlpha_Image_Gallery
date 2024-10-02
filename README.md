@@ -1,2 +1,6 @@
 # CodeAlpha_Image_Gallery
-image gallery , created with html .Css and javascript , HAS 3 TABS ,GYM ,MUSIC AND TECH pictures
+an image gallery where users can view a
+collection of images. Use HTML/CSS for layout
+and JavaScript for image navigation and any
+interactive features.
+
